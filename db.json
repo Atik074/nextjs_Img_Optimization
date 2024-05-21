@@ -1,0 +1,43 @@
+{
+    "shoes":
+        [
+            {
+                "title": "Nike Air Max 270",
+                "description": "Breathable and lightweight with a large Air unit for maximum comfort.",
+                "id": "001",
+                "price": 160
+            },
+            {
+                "title": "Adidas Ultraboost 21",
+                "description": "High-performance running shoe with a responsive Boost midsole.",
+                "id": "002",
+                "price": 180
+            },
+            {
+                "title": "Puma RS-X",
+                "description": "Retro-inspired sneaker with bold colors and a chunky silhouette.",
+                "id": "003",
+                "price": 110
+            },
+            {
+                "title": "Asics Gel-Kayano 27",
+                "description": "Stability running shoe with GEL technology for shock absorption.",
+                "id": "004",
+                "price": 180
+            },
+            {
+                "title": "New Balance 990v5",
+                "description": "Classic running shoe with premium materials and superior cushioning.",
+                "id": "005",
+                "price": 162
+            },
+            {
+                "title": "Reebok Nano X1",
+                "description": "Versatile training shoe designed for cross-training and high-intensity workouts.",
+                "id": "006",
+                "price": 130
+            }
+        ]
+
+  
+  }
